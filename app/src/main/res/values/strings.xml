@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TorresCallejasTc100220</string>
+    <string name="ingresarTexto">Ingrese un texto</string>
+    <string name="guardar">Guardar</string>
+</resources>
